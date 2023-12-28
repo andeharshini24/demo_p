@@ -6,5 +6,5 @@ st.set_page_config(
     page_title="heloooooooo")
 
 st.markdown("## Heading:")
-    st.write("- hello")
-    st.write("- Cats")
+st.write("- hello")
+st.write("- Cats")
